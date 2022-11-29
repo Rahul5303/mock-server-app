@@ -10,7 +10,12 @@
     ],
     "wishlist":[
       {
-        
+        "description":"Nivce",
+        "price":345678,
+        "brand":"BMW",
+        "type":"AMT",
+        "kms":"34",
+        "year":20222
       }
     ]
   }
