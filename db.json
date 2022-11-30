@@ -17,5 +17,14 @@
         "kms":"34",
         "year":20222
       }
+    ],
+    "furniture":[
+      {
+        "id":1,
+        "type":"Study Table",
+        "year":"2019",
+        "Description":"Wooden Table with dual Laptop",
+        "price":50000
+      }
     ]
   }
