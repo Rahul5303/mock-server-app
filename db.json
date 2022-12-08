@@ -1,5 +1,5 @@
 {
-    "users": [
+    "user": [
         {
             "id": 1,
             "name": "Rahul Nishad",
@@ -18,7 +18,7 @@
         "year":20222
       }
     ],
-    "furniture":[
+    "posts":[
       {
         "id":1,
         "type":"Study Table",
